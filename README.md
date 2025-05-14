@@ -4,6 +4,7 @@ The server-side of the JobFinder application is responsible for processing job-r
 
 
 Key Responsibilities
+
 🧠 Request Handling: Receives and processes incoming client requests over TCP/IP sockets.
 
 🔍 Advanced Job Search: Implements a custom string-matching algorithm to improve search accuracy and relevance beyond basic keyword matching.
